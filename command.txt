@@ -1,1 +1,5 @@
-# thamaraiselvan
+git commit
+git log
+git remote add origin<url>
+git push -u origin main
+
